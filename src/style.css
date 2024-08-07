@@ -1,0 +1,46 @@
+body {
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     padding: 25px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo .titulo {
+    margin-left: 10px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+  }
+
+  .menu li a {
+    padding: 10px 5px;
+    transition: 0.3s ease-in-out;
+    margin: 15px;
+  }
+
+  .menu li a:hover {
+    background-color: #5BC241;
+    color: aliceblue;
+  }
+
+  .menu li a.botao {
+    background-color:  #5BC241;
+    border-radius: 10px;
+    color:aliceblue;
+    margin-left: 20px;
+    padding: 10px 20px;
+
+
+  }
