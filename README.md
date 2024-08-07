@@ -18,10 +18,8 @@ O desafio era criar um menu utilizando flexbox, aplicando suas propriedades e el
 
 ### Screenshot
 
-<<<<<<< HEAD
-<img src="./images/Layout Menu.jpg>
-=======
->>>>>>> e4aaa4816c738c585f2cc56e1c01c9078e73012f
+<img src="./images/Layout.jpg">
+
 
 ## Meu processo
 
